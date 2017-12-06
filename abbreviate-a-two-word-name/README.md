@@ -5,3 +5,5 @@ Sam Harris => S.H
 Patrick Feeney => P.F
 
 https://www.codewars.com/kata/abbreviate-a-two-word-name
+
+We talked out the steps together and wrote it on the white board. Then we kind of did pair programming and with greg driving and both of us navigating.
