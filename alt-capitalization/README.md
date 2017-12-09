@@ -8,3 +8,4 @@ Even-odd disparity
 
 https://www.codewars.com/kata/alternate-capitalization/train/javascript
 
+This was pretty simple, I used the odd calcautor that i used on an old kata and added them to the string. used the to lower case and upper case to the even and odd charaters.
