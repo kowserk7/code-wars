@@ -6,3 +6,5 @@ validatePIN("12345") === false
 validatePIN("a234") === false
 
 https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/solutions/javascript
+
+I just kept googling and trying different suggestions.
