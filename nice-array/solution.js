@@ -1,4 +1,9 @@
 function isNice(arr){
-    if (arr.length === 0) return false;
-    return arr.every(item => arr.includes(item + 1) || arr.includes(item - 1))
+    (arr.length === 0) ? arrIsNice = false: arrIsNice = true;
+        for (i=0; i < arr.length; i++) {
+            if (!arr.includes(arr[i] + 1) && !arr.includes(arr[i] - 1)) {
+            return false;
+            }
+        }
+    return arrIsNice;
     }
